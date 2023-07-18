@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nesma
-- 👀 I’m interested in Coding, Programing, website, gaming, movies, Animation
+- 👀 I’m interested in Coding, Programing, website, gaming, movies
 - 🌱 I’m currently learning JavaScript
 - 📫 My Instgram: @nesma_07
 <!---
